@@ -1,4 +1,4 @@
-const fs = {
+let fs = {
   "/": {
     home: {
       user: {
